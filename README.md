@@ -1,100 +1,131 @@
 <div align="center">
 
-# ⚡ MOHAMMED AREEB ALI SHIVJI
-### *Full-Stack AI Systems Architect • Creator of E.V.E (MaaS Core)*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--areeb--ali--shivji.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=black)](https://mohammed-areeb-ali-shivji.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-mohammedareebalishivji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedareebalishivji)
-[![Email](https://img.shields.io/badge/Contact-mohammedareebalishivji@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedareebalishivji@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe,6b21a8&height=220&section=header&text=MOHAMMED%20AREEB%20ALI%20SHIVJI&fontSize=40&fontAlignY=38&desc=Full-Stack%20AI%20Systems%20Architect%20%E2%80%A2%20Creator%20of%20E.V.E%20(MaaS)&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Mohammed Areeb Ali Shivji Banner" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agents+%26+Multi-Agent+Systems;Creator+of+E.V.E+Autonomous+Operating+Core;Full-Stack+Architect+%7C+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Python;Pushing+the+Boundaries+of+Human-AI+Co-Pilots" alt="Typing SVG" />
+[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-mohammed--areeb--ali--shivji.vercel.app-00f2fe?style=for-the-badge&logoColor=black)](https://mohammed-areeb-ali-shivji.vercel.app/)
+[![GitHub](https://img.shields.io/badge/⚡_GITHUB_PROFILE-mohammedareebalishivji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedareebalishivji)
+[![Email](https://img.shields.io/badge/✉️_DIRECT_CONTACT-mohammedareebalishivji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedareebalishivji@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=mohammedareebalishivji&color=00f2fe&style=for-the-badge&label=VISITORS)](https://github.com/mohammedareebalishivji)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Architecting+Autonomous+AI+Operating+Intelligence;🚀+Creator+of+E.V.E+(Multi-Agent+Autonomous+System);🧠+Claude+3.5+%E2%80%A2+Gemini+%E2%80%A2+Local+SLMs+%E2%80%A2+Vector+RAG;🛠️+Full-Stack+Architect+%7C+Next.js+15+%E2%80%A2+TypeScript+%E2%80%A2+Python;🌐+Bridging+Digital+Perception+%26+Autonomous+Computer-Use" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements & Badge Showroom
+## 🛰️ EXECUTIVE OVERVIEW
+
+> *"The future belongs to sovereign, proactive multi-agent intelligence that operates silently in the background, executing intent at hypersonic speed."*
+
+I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co-pilots, computer-use browser automation, and real-time cybernetic interfaces. My focus lies at the intersection of **large language models, local edge quantization, and high-performance full-stack architectures**.
+
+- 🤖 **Flagship Invention**: **[E.V.E (MaaS Core)](https://github.com/mohammedareebalishivji)** — Personal Autonomous Operating Entity featuring autonomous web navigation, WhatsApp Linked Device synchronization, macOS AppleScript telemetry, and multi-agent delegation (Claude 3.5 Sonnet, Gemini, Ollama).
+- 🔬 **Core Research & Focus**: Autonomous Computer Use, Set-of-Marks (SoM) visual screen indexing, Vector RAG Memory Systems, and Multi-Agent Consensus.
+- ⚡ **Production Stack**: Next.js 15 (App Router), React 19, TypeScript, Python 3.12, PyTorch, LangChain, PostgreSQL, Docker, and macOS/Linux system automation.
+- 💼 **Open To**: High-Impact Engineering Leadership, Advanced AI Research Partnerships, and Advisory Collaborations.
+
+---
+
+## 🏆 GITHUB ACHIEVEMENTS & TROPHY SHOWROOM
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" height="90" alt="Pull Shark" />
-        <br />
-        <b>Pull Shark</b>
-        <br />
-        <sub>Merged Pull Requests</sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" height="90" alt="Quickdraw" />
-        <br />
-        <b>Quickdraw</b>
-        <br />
-        <sub>Closed issue within 5m</sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" height="90" alt="YOLO" />
-        <br />
-        <b>YOLO</b>
-        <br />
-        <sub>Merged without review</sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" height="90" alt="Pair Extraordinaire" />
-        <br />
-        <b>Pair Extraordinaire</b>
-        <br />
-        <sub>Co-authored commits</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90" height="90" alt="Galaxy Brain" />
-        <br />
-        <b>Galaxy Brain</b>
-        <br />
-        <sub>Accepted answers</sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" height="90" alt="Starstruck" />
-        <br />
-        <b>Starstruck</b>
-        <br />
-        <sub>High star recognition</sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" height="90" alt="Arctic Code Vault" />
-        <br />
-        <b>Code Vault</b>
-        <br />
-        <sub>Preserved archive</sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="90" height="90" alt="Public Sponsor" />
-        <br />
-        <b>Public Sponsor</b>
-        <br />
-        <sub>Open source supporter</sub>
-      </td>
-    </tr>
-  </table>
+
+### 🎖️ Official GitHub Badges
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" height="95" alt="Pull Shark" />
+      <br />
+      <b>🦈 Pull Shark</b>
+      <br />
+      <sub>Tiered PR Velocity</sub>
+      <br />
+      <code>Level II</code>
+    </td>
+    <td align="center" width="130">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" height="95" alt="Quickdraw" />
+      <br />
+      <b>🎯 Quickdraw</b>
+      <br />
+      <sub>Sub-5m Resolution</sub>
+      <br />
+      <code>Unlocked</code>
+    </td>
+    <td align="center" width="130">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" height="95" alt="YOLO" />
+      <br />
+      <b>🚀 YOLO</b>
+      <br />
+      <sub>Autonomous Merge</sub>
+      <br />
+      <code>Unlocked</code>
+    </td>
+    <td align="center" width="130">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="95" height="95" alt="Pair Extraordinaire" />
+      <br />
+      <b>👥 Pair Extraordinaire</b>
+      <br />
+      <sub>Co-authored Delivery</sub>
+      <br />
+      <code>Unlocked</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="95" height="95" alt="Galaxy Brain" />
+      <br />
+      <b>🧠 Galaxy Brain</b>
+      <br />
+      <sub>Accepted Answers</sub>
+      <br />
+      <code>Honors</code>
+    </td>
+    <td align="center" width="130">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="95" height="95" alt="Starstruck" />
+      <br />
+      <b>⭐ Starstruck</b>
+      <br />
+      <sub>Ecosystem Starred</sub>
+      <br />
+      <code>Featured</code>
+    </td>
+    <td align="center" width="130">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="95" height="95" alt="Arctic Code Vault" />
+      <br />
+      <b>❄️ Code Vault</b>
+      <br />
+      <sub>1,000-Year Heritage</sub>
+      <br />
+      <code>Preserved</code>
+    </td>
+    <td align="center" width="130">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="95" height="95" alt="Public Sponsor" />
+      <br />
+      <b>💖 Public Sponsor</b>
+      <br />
+      <sub>Open-Source Patron</sub>
+      <br />
+      <code>Supporter</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🏅 Hall of Trophies
+<a href="https://github.com/mohammedareebalishivji">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedareebalishivji&theme=algolia&column=7&margin-w=12&margin-h=12&no-bg=true" alt="GitHub Trophies" />
+</a>
+
 </div>
 
 ---
 
-## 🎖️ GitHub Profile Trophies
-
-<div align="center">
-  <a href="https://github.com/mohammedareebalishivji">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammedareebalishivji&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true" alt="Mohammed's GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 📊 Live GitHub Telemetry
+## 📊 LIVE REPOSITORY TELEMETRY & CODING VELOCITY
 
 <div align="center">
   <table border="0">
@@ -108,53 +139,78 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedareebalishivji&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="450" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedareebalishivji&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="460" />
       </td>
     </tr>
   </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedareebalishivji&theme=react-dark&hide_border=true&area=true&color=00f2fe" alt="Activity Graph" width="100%" />
 </div>
 
 ---
 
-## 🛠️ Core Tech Arsenal
+## 🛠️ ARCHITECTURAL ARSENAL & TECH STACK
 
 <div align="center">
 
-### AI & Agentic Orchestration
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,nodejs,postgres,tailwind,docker,git,github,vscode,apple,linux&theme=dark" alt="Skill Icons" />
 
-### Frontend & App Engineering
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/><br/>
 
-### Systems & Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **🧠 AI & Agentic Orchestration** | Anthropic Claude 3.5, OpenAI GPT-4o, Google Gemini, Ollama Local SLMs, LangChain, Vector RAG Embeddings |
+| **💻 Full-Stack Architecture** | Next.js 15 (Turbopack, Server Actions), React 19, TypeScript, Tailwind CSS, Shadcn UI |
+| **⚙️ Backend & Systems** | Node.js, Python 3.12, Fastify/Express, PostgreSQL, Redis, macOS AppleScript Bridges, WebSockets |
+| **🌐 Autonomous Browser & Vision** | Playwright, Puppeteer, Set-of-Marks (SoM) Coordinates, MediaPipe Computer Vision, WebRTC |
+| **📱 Native Ecosystems** | WhatsApp Baileys Linked Device, Android Companion, Twilio Voice Protocols |
 
 </div>
 
 ---
 
-## 🌟 Flagship Project: E.V.E (Autonomous MaaS Core)
-
-> **E.V.E (Executive Virtual Entity)** is a hyper-personalized autonomous operating intelligence:
-- 🌐 **Autonomous Browser & Cursor Engine**: Computer use visual indexing and web navigation.
-- 📱 **WhatsApp & Phone Link**: Zero-token native device synchronization and voice synthesis.
-- 🎵 **Spotify & Media Telemetry**: Local AppleScript control & live track streaming.
-- 🧠 **Multi-Agent Hybrid Brain**: Seamless delegation between Claude 3.5 Sonnet, Gemini, and Local Ollama instances.
-
----
+## ⚡ FLAGSHIP ARCHITECTURE: E.V.E (MaaS CORE)
 
 <div align="center">
-  <sub>Designed & engineered with ⚡ by <b>Mohammed Areeb Ali Shivji</b></sub>
+  <img src="https://img.shields.io/badge/E.V.E-Autonomous_Operating_Core-00f2fe?style=for-the-badge&logo=cpu&logoColor=black" alt="EVE Badge" />
 </div>
-<!-- flex achievement tier 1 -->
-<!-- flex tier 2 -->
+
+```
+                     ┌──────────────────────────────────────────────┐
+                     │   E.V.E (MaaS Core Autonomous Intelligence)  │
+                     └──────────────────────┬───────────────────────┘
+                                            │
+        ┌───────────────────┬───────────────┴───────────────┬───────────────────┐
+        ▼                   ▼                               ▼                   ▼
+┌───────────────┐   ┌───────────────┐               ┌───────────────┐   ┌───────────────┐
+│ Autonomous    │   │ Multi-Agent   │               │ Native Device │   │ Ambient IoT   │
+│ Browser &     │   │ Hybrid Brain  │               │ Synchronizer  │   │ Telemetry     │
+│ Cursor Engine │   │ (Claude/Local)│               │ (WhatsApp/Mac)│   │ (Spotify/HUD) │
+└───────────────┘   └───────────────┘               └───────────────┘   └───────────────┘
+```
+
+> **E.V.E** represents a paradigm shift in human-machine collaboration:
+- **Visual Cursor Simulation**: Moves mouse coordinates, simulates click ripples, and types into live websites autonomously.
+- **Multi-Agent Hybrid Brain**: Seamlessly routes high-complexity architecture to Claude 3.5 Sonnet, fast reasoning to Gemini, and private context to local Ollama.
+- **Zero-Token WhatsApp Intelligence**: Direct Baileys linked-device socket reading chats, summarizing conversations, and drafting responses.
+- **Spotify & Ambient Mac Control**: Direct macOS AppleScript pipeline controlling high-fidelity playback, volume, and track discovery.
+
+---
+
+## 🤝 CONNECT & COLLABORATE
+
+<div align="center">
+
+Whether you're looking to discuss **advanced multi-agent systems**, collaborate on **cutting-edge open source**, or explore **high-impact opportunities**, feel free to reach out:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--areeb--ali--shivji.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=black)](https://mohammed-areeb-ali-shivji.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-mohammedareebalishivji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedareebalishivji)
+[![Email](https://img.shields.io/badge/Email-mohammedareebalishivji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedareebalishivji@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6b21a8,4facfe,00f2fe&height=100&section=footer" alt="Footer Wave" width="100%" />
+
+</div>
