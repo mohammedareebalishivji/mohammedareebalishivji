@@ -131,7 +131,7 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mohammedareebalishivji&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="410" />
+        <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/github-stats.svg" alt="Mohammed Areeb Ali Shivji's GitHub Stats - Rank A+" width="410" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedareebalishivji&theme=radical&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0D1117" alt="GitHub Streak" width="410" />
