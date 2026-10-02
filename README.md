@@ -116,9 +116,9 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 
 <br/>
 
-### 🏅 Hall of Trophies
-<a href="https://github.com/mohammedareebalishivji">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedareebalishivji&theme=algolia&column=7&margin-w=12&margin-h=12&no-bg=true" alt="GitHub Trophies" />
+### 🏅 Hall of Trophies & Milestones
+<a href="https://github.com/mohammedareebalishivji?tab=achievements">
+  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/trophies.svg" alt="Mohammed Areeb Ali Shivji's Hall of Trophies" width="100%" />
 </a>
 
 </div>
@@ -143,10 +143,6 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedareebalishivji&theme=react-dark&hide_border=true&area=true&color=00f2fe" alt="Activity Graph" width="100%" />
 </div>
 
 ---
