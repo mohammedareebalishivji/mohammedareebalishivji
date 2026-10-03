@@ -37,79 +37,16 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 ### 🎖️ Official GitHub Badges
 <table>
   <tr>
-    <td align="center" width="130">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" height="95" alt="Pull Shark" />
-      <br />
-      <b>🦈 Pull Shark</b>
-      <br />
-      <sub>Tiered PR Velocity</sub>
-      <br />
-      <code>Level II</code>
-    </td>
-    <td align="center" width="130">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" height="95" alt="Quickdraw" />
+    <td align="center" width="160">
+      <a href="https://github.com/mohammedareebalishivji?achievement=quickdraw&tab=achievements">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" height="95" alt="Quickdraw" />
+      </a>
       <br />
       <b>🎯 Quickdraw</b>
       <br />
       <sub>Sub-5m Resolution</sub>
       <br />
-      <code>Unlocked</code>
-    </td>
-    <td align="center" width="130">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" height="95" alt="YOLO" />
-      <br />
-      <b>🚀 YOLO</b>
-      <br />
-      <sub>Autonomous Merge</sub>
-      <br />
-      <code>Unlocked</code>
-    </td>
-    <td align="center" width="130">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="95" height="95" alt="Pair Extraordinaire" />
-      <br />
-      <b>👥 Pair Extraordinaire</b>
-      <br />
-      <sub>Co-authored Delivery</sub>
-      <br />
-      <code>Unlocked</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="95" height="95" alt="Galaxy Brain" />
-      <br />
-      <b>🧠 Galaxy Brain</b>
-      <br />
-      <sub>Accepted Answers</sub>
-      <br />
-      <code>Honors</code>
-    </td>
-    <td align="center" width="130">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="95" height="95" alt="Starstruck" />
-      <br />
-      <b>⭐ Starstruck</b>
-      <br />
-      <sub>Ecosystem Starred</sub>
-      <br />
-      <code>Featured</code>
-    </td>
-    <td align="center" width="130">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="95" height="95" alt="Arctic Code Vault" />
-      <br />
-      <b>❄️ Code Vault</b>
-      <br />
-      <sub>1,000-Year Heritage</sub>
-      <br />
-      <code>Preserved</code>
-    </td>
-    <td align="center" width="130">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="95" height="95" alt="Public Sponsor" />
-      <br />
-      <b>💖 Public Sponsor</b>
-      <br />
-      <sub>Open-Source Patron</sub>
-      <br />
-      <code>Supporter</code>
+      <code>Unlocked ✓</code>
     </td>
   </tr>
 </table>
@@ -118,7 +55,7 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 
 ### 🏅 Hall of Trophies & Milestones
 <a href="https://github.com/mohammedareebalishivji?tab=achievements">
-  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/trophies.svg" alt="Mohammed Areeb Ali Shivji's Hall of Trophies" width="100%" />
+  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/trophies.svg" alt="Mohammed Areeb Ali Shivji's Hall of Trophies" width="480" />
 </a>
 
 </div>
