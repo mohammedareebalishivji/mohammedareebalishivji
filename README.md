@@ -130,16 +130,11 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/github-stats.svg" alt="Mohammed Areeb Ali Shivji's GitHub Stats - Rank A+" width="410" />
-      </td>
-      <td>
+      <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedareebalishivji&theme=radical&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0D1117" alt="GitHub Streak" width="410" />
       </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedareebalishivji&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="460" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedareebalishivji&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="410" />
       </td>
     </tr>
   </table>
