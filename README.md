@@ -130,6 +130,90 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 
 ---
 
+## 🚀 PRODUCTION & RESEARCH PORTFOLIO
+
+A comprehensive catalog of production client systems, machine learning architectures, and 3D simulations engineered from my master portfolio:
+
+### 🌐 Full-Stack & Enterprise Product Engineering
+
+- 🏢 **[The Stellaar Platform & TSwebapp](https://github.com/officethestellaar/TSApp)** *(Client Production System — [thestellaar.com](https://thestellaar.com))*
+  - **Working**: Full-stack TypeScript monorepo with 25+ API modules running daily club operations: digital member passports, restaurant POS with Kitchen Display System (KDS), real-time inventory tracking, GST-compliant billing, and HR/payroll. Features a 16-role multi-tier RBAC system enforced at middleware, server component, and API levels, alongside real-time Socket.IO chat and automated WhatsApp Cloud API notifications.
+  - **Tech**: `Next.js 16` • `TypeScript` • `Express 5` • `Prisma` • `PostgreSQL` • `Tailwind CSS` • `Framer Motion` • `Socket.IO` • `WhatsApp Cloud API`
+
+- ⚡ **[O.D.C — On-Demand Crew](https://github.com/mohammedareebalishivji/ODC)** *(Real-Time Hospitality Gig Marketplace)*
+  - **Working**: Multi-sided marketplace for single-shift hiring. Restaurants post shift requirements with budget bands; nearby freelance staff are pinged in real-time to accept or counter-offer. Features Razorpay escrow built on an append-only ledger preventing double-payments/overdrafts, automated dispute hold freezes, on-site 4-digit proximity code check-ins, passwordless OTP + JWT auth, TOTP 2FA for super-admins, and KYC document verification (Aadhaar/PAN/FSSAI). Tested across 146 automated test suites.
+  - **Tech**: `React 18` • `Vite` • `Tailwind v4` • `Node.js` • `Express` • `PostgreSQL` • `Server-Sent Events (SSE)` • `Supabase Realtime` • `Razorpay`
+
+- 🩺 **PediaTrack Pro** *(Pediatric Health-Tracking & Clinical Milestone Platform)*
+  - **Working**: Consolidates child physical development, vaccination schedules, milestone tracking, and prescriptions into a unified longitudinal electronic health record. Evaluates biometric growth curves against WHO 2006 and IAP 2015 pediatric standards, forecasting 12-month growth trajectories using scikit-learn linear regression. Includes Socket.IO emergency alert broadcasts, one-click clinical summary PDF exports, and an ABHA-ready schema.
+  - **Tech**: `Python` • `Flask` • `scikit-learn` • `Socket.IO` • `React 19` • `Vite` • `React Three Fiber` • `Recharts` • `React Native (Expo)` • `PostgreSQL`
+
+- 🏐 **[Dunk & Spike](https://github.com/mohammedareebalishivji/Dunk_and_Spike) & [Legends Walk Off](https://github.com/mohammedareebalishivji/Legends_walk_off)** *(Collegiate Sports Scoring & Tournament Engine)*
+  - **Working**: Live sports scoring portal compliant with official FIVB/VNL volleyball and FIBA/NCAA basketball regulations. Volleyball: best-of-3/5 sets, no-ceiling deuce logic, automatic court-switch alert at 8 points in deciding sets, card sanctions, and 30-sec timeout countdowns. Basketball: automatic overtime quarters, team-foul bonus indicators, 24/14-sec shot clock resets, box scores, and instant PDF match reports. 23 unit/integration tests with Vitest, containerized with Docker.
+  - **Tech**: `TypeScript` • `Node.js` • `Vitest` • `Docker` • `WebSockets` • `Tailwind CSS`
+
+- 🏥 **Hayaat Health Centre** *(Medical Practice & Patient Portal — Tanzania)*
+  - **Working**: Healthcare web portal engineered for a medical clinic in Tanzania, featuring online patient intake registration, scheduled specialist appointment booking, medical advice publications, and a protected administrative EHR dashboard backed by JWT-secured sessions.
+  - **Tech**: `React 19` • `Vite` • `Express 5` • `SQLite3` • `JWT` • `Tailwind CSS`
+
+- 🌐 **[Personal Portfolio Website](https://mohammed-areeb-ali-shivji.vercel.app/)** *(Interactive Engineering Portfolio)*
+  - **Working**: Cinematic developer portfolio featuring GSAP ScrollTrigger timeline animations, Lenis smooth inertial scrolling, pinned horizontal showcase gallery, and React/TypeScript interactive terminal hero. Node/Express backend with Nodemailer contact dispatcher, Helmet security headers, and strict rate limiting.
+  - **Tech**: `React` • `TypeScript` • `GSAP` • `Lenis` • `SCSS` • `Node.js` • `Express` • `Vercel`
+
+---
+
+### 🧠 AI, Machine Learning & Data Science
+
+- 🤖 **[E.V.E — Local Voice AI Assistant (MaaS Core)](https://github.com/mohammedareebalishivji/AI_MAAS)** *(Sovereign Autonomous Agent)*
+  - **Working**: Voice-controlled multi-agent co-pilot running locally on quantized models (Ollama `qwen2.5:7b` / Llama 3) with intelligent cloud routing (Claude 3.5 Sonnet / Gemini), Whisper speech-to-text, and Coqui XTTS v2 text-to-speech. Features semantic long-term memory via ChromaDB (HNSW, cosine similarity) with sliding-window chunking for vector RAG, local SQLite logs, intent classification, OS-level automation (pyautogui, psutil, AppleScript), and a FastAPI + WebSocket telemetry console.
+  - **Tech**: `Python` • `FastAPI` • `WebSockets` • `Ollama` • `ChromaDB` • `Whisper` • `Coqui TTS` • `SQLite`
+
+- 🥗 **GoCARB** *(Computer-Vision Diabetes & Nutritional Assistant)*
+  - **Working**: Automated carbohydrate estimation directly from meal photographs utilizing K-means color clustering, Watershed transform, and Sobel edge-detection segmentation, combined with stereo-vision 3D volume reconstruction from two perspective images. Recommends personalized insulin bolus dosages from individual insulin-to-carb ratios, with 7-day time-in-range glucose dashboards across 15 REST endpoints.
+  - **Tech**: `Python` • `FastAPI` • `OpenCV` • `NumPy` • `SQLAlchemy` • `React` • `Vite`
+
+- 📄 **Resume–Job Match Analyzer** *(NLP Semantic Scoring Engine)*
+  - **Working**: Evaluates resume alignment with target job descriptions by combining TF-IDF keyword overlap (30%) with Sentence-BERT semantic similarity embeddings (70%). Parses raw text and PDF documents, extracts domain competencies with spaCy and NLTK, and produces interactive visual skill-gap analytics with actionable candidate resume recommendations.
+  - **Tech**: `Python` • `spaCy` • `NLTK` • `scikit-learn` • `Sentence-BERT` • `Streamlit`
+
+- ⚡ **Smart Energy Consumption Forecasting System** *(Time-Series & Anomaly Detection)*
+  - **Working**: Forecasts building electrical load profiles by benchmarking ARIMA, SARIMA, Prophet, and LSTM neural networks alongside Random Forest and Gradient Boosting regressors. Identifies consumption spikes and anomalies using Isolation Forest, Z-score, IQR, and rolling statistical filters; served via a FastAPI REST API with Swagger documentation, Streamlit analytics dashboard, and React Native mobile client.
+  - **Tech**: `Python` • `TensorFlow` • `scikit-learn` • `XGBoost` • `Prophet` • `FastAPI` • `Streamlit` • `React Native`
+
+- 📈 **Stock Market Trend Prediction & Risk Analytics** *(Deep Learning & Quantitative Finance)*
+  - **Working**: Forecasts equity price momentum using stacked LSTM architectures and ARIMA models streaming real-time Yahoo Finance market feeds. Quantifies portfolio risk exposure via Value at Risk (95% & 99% VaR), historical volatility metrics, maximum drawdown, Sharpe ratio, and a multi-factor composite risk index.
+  - **Tech**: `Python` • `FastAPI` • `TensorFlow` • `Statsmodels` • `yfinance` • `React 18` • `Chart.js` • `Flutter`
+
+---
+
+### 🎮 3D Simulation, Spatial Computing & Systems
+
+- 🏐 **Volleyball Rotation & Tempo Simulator** *(3D Interactive Tactical Trainer)*
+  - **Working**: Interactive 3D court simulation illustrating collegiate 5-1 and 6-2 rotation formations with automated libero substitution algorithms. Visualizes 7 setter hand signals with distinct parabolic ball tempos and trajectories, custom set play builders, 4 serve-type drills, and single/double/triple block defensive patterns across 4 dynamic camera angles.
+  - **Tech**: `React` • `Vite` • `Three.js` • `React Three Fiber` • `Drei` • `Zustand`
+
+- 🕶️ **Holographic 3D Workspace** *(Iron Man-Style Spatial Operating System)*
+  - **Working**: Voice-controlled 3D desktop workspace featuring real-time speech input/output, LLM function calling for automated 3D model generation and workspace manipulation, procedural hologram shader rendering, and hands-free interaction.
+  - **Tech**: `Next.js` • `React Three Fiber` • `Three.js` • `Web Speech API` • `LLM Function Calling`
+
+- 🚦 **Smart City Traffic & Transport Management Simulation** *(Java OOP Systems Architecture)*
+  - **Working**: Modular urban traffic routing and transit dispatch engine designed in Java strictly adhering to core OOP principles: deep encapsulation, multi-tiered inheritance, and polymorphic pathfinding algorithms.
+  - **Tech**: `Java` • `OOP Principles` • `Data Structures` • `Design Patterns`
+
+- 🦾 **Smart Wearable Gesture-Controlled Robotic Arm** *(Aquaculture Robotics Proposal)*
+  - **Working**: IEEE-aligned hardware proposal for aquaculture manipulation systems, incorporating wearable inertial measurement unit (IMU) gesture tracking, wireless sensor telemetry, and multi-axis servo actuation.
+  - **Tech**: `Embedded C/C++` • `IoT Telemetry` • `Sensor Fusion` • `Hardware Robotics`
+
+---
+
+### 🏛️ GovTech & Public Sector Platforms
+
+- 🏛️ **PRISM — Innovation Procurement Platform** *(Smart India Hackathon — SIH26136)*
+  - **Working**: Startup-friendly public procurement and technology adoption platform engineered for the Government of Maharashtra (Maharashtra State Innovation Society - MSInS). Establishes a legally compliant, transparent 4-stage pipeline (*Identify → Pilot → Procure → Scale*) connecting state departments with vetted startup innovations through milestone-driven progress tracking.
+  - **Tech**: `Next.js` • `React` • `Node.js` • `PostgreSQL` • `Tailwind CSS` • `Prisma`
+
+---
+
 ## 🤝 CONNECT & COLLABORATE
 
 <div align="center">
