@@ -32,11 +32,11 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 
 ---
 
-## 🏆 GITHUB ACHIEVEMENTS & TROPHY SHOWROOM
+## 🏆 EARNED ACHIEVEMENTS
 
 <div align="center">
 
-### 🎖️ Official GitHub Badges
+### 🎖️ Official Earned Badges & Trophies
 <table>
   <tr>
     <td align="center" width="160">
