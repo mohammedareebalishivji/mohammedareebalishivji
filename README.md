@@ -23,12 +23,13 @@
 
 > *"The future belongs to sovereign, proactive multi-agent intelligence that operates silently in the background, executing intent at hypersonic speed."*
 
-I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co-pilots, computer-use browser automation, and real-time cybernetic interfaces. My focus lies at the intersection of **large language models, local edge quantization, and high-performance full-stack architectures**.
+I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co-pilots, computer-use browser automation, and real-time cybernetic interfaces. Below is an architectural overview of my core engineering projects and their operational mechanics:
 
-- 🤖 **Flagship Invention**: **[E.V.E (MaaS Core)](https://github.com/mohammedareebalishivji)** — Personal Autonomous Operating Entity featuring autonomous web navigation, WhatsApp Linked Device synchronization, macOS AppleScript telemetry, and multi-agent delegation (Claude 3.5 Sonnet, Gemini, Ollama).
-- 🔬 **Core Research & Focus**: Autonomous Computer Use, Set-of-Marks (SoM) visual screen indexing, Vector RAG Memory Systems, and Multi-Agent Consensus.
-- ⚡ **Production Stack**: Next.js 15 (App Router), React 19, TypeScript, Python 3.12, PyTorch, LangChain, PostgreSQL, Docker, and macOS/Linux system automation.
-- 💼 **Open To**: High-Impact Engineering Leadership, Advanced AI Research Partnerships, and Advisory Collaborations.
+- 🤖 **[E.V.E (MaaS Core — Machine-as-a-Service)](https://github.com/mohammedareebalishivji)**: Autonomous personal operating system powered by local edge SLMs (Ollama `qwen2.5:7b`) and hybrid cloud routing (Claude 3.5 Sonnet / Gemini); operates via continuous streaming NDJSON tool loops, persistent vector RAG memory (`nomic-embed-text`), native WhatsApp Linked Device synchronization (Baileys), Twilio voice telecommunications, and macOS AppleScript automation.
+- 🏢 **[The Stellaar Platform (TSApp)](https://github.com/officethestellaar/TSApp)**: Enterprise club membership, event reservation, and transaction management system built on Next.js 15 (Turbopack) and Express/TypeScript; works via a dual-ledger Prisma PostgreSQL architecture with strict role-based access control (RBAC), QR digital credential validation, and automated financial transaction audit trails.
+- ⚡ **[O.D.C (On-Demand Crew)](https://github.com/mohammedareebalishivji/ODC)**: Multi-sided hospitality workforce marketplace connecting restaurants and hotels with verified freelance chefs and staff; runs an automated shift lifecycle through geolocation proximity dispatch, escrow fund locking, 4-digit proximity code on-site check-in verification, and instant automated payout settlement.
+- 🏛️ **[PRISM (GovTech Innovation Engine — SIH)](https://github.com/mohammedareebalishivji)**: Startup-friendly public procurement and technology adoption platform built for the Government of Maharashtra (MSInS); automates a transparent, legally compliant 4-stage pipeline (*Identify → Pilot → Procure → Scale*) evaluating startup solutions through smart qualification matrices and departmental milestone tracking.
+- 🏆 **[Dunk & Spike & Legends Walk Off](https://github.com/mohammedareebalishivji/Legends_walk_off)**: Tournament athletic portals and live court scoring engines built for collegiate championships; delivers live digital consoles compliant with official FIBA/NCAA basketball and FIVB/VNL volleyball rules, real-time score/foul/timeout telemetry websockets, dynamic tournament bracket trees, and player stat tracking.
 
 ---
 
