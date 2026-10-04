@@ -36,7 +36,7 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 
 <div align="center">
 
-### 🎖️ Official Earned Badges & Trophies
+### 🎖️ Official Earned Badges
 <table>
   <tr>
     <td align="center" width="160">
@@ -46,66 +46,9 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
       <br />
       <b>🏹 Quickdraw</b>
       <br />
-      <sub>Closed Issue/PR &lt; 5m</sub>
+      <sub>Sub-5m Resolution</sub>
       <br />
-      <code>1 time ✓</code>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/mohammedareebalishivji?achievement=yolo&tab=achievements">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" height="95" alt="YOLO" />
-      </a>
-      <br />
-      <b>🤠 YOLO</b>
-      <br />
-      <sub>Merged w/o Review</sub>
-      <br />
-      <code>1 time ✓</code>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/mohammedareebalishivji?achievement=pull-shark&tab=achievements">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="95" height="95" alt="Pull Shark" />
-      </a>
-      <br />
-      <b>🦈 Pull Shark</b>
-      <br />
-      <sub>Merged Pull Request</sub>
-      <br />
-      <code>Bronze: 2 ✓</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/mohammedareebalishivji?achievement=pair-extraordinaire&tab=achievements">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="95" height="95" alt="Pair Extraordinaire" />
-      </a>
-      <br />
-      <b>👥 Pair Extraordinaire</b>
-      <br />
-      <sub>Co-authored Commit</sub>
-      <br />
-      <code>Bronze: 1 ✓</code>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/mohammedareebalishivji?achievement=galaxy-brain&tab=achievements">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="95" height="95" alt="Galaxy Brain" />
-      </a>
-      <br />
-      <b>🧠 Galaxy Brain</b>
-      <br />
-      <sub>Accepted Answer</sub>
-      <br />
-      <code>Bronze: 2 ✓</code>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/mohammedareebalishivji?achievement=starstruck&tab=achievements">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="95" height="95" alt="Starstruck" />
-      </a>
-      <br />
-      <b>⭐ Starstruck</b>
-      <br />
-      <sub>Star-Accumulating Repo</sub>
-      <br />
-      <code>Bronze: 16 ✓</code>
+      <code>Unlocked ✓</code>
     </td>
   </tr>
 </table>
@@ -114,7 +57,7 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 
 ### 🏅 Hall of Trophies & Milestones
 <a href="https://github.com/mohammedareebalishivji?tab=achievements">
-  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/trophies.svg" alt="Mohammed Areeb Ali Shivji's Hall of Trophies" width="100%" />
+  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/trophies.svg" alt="Mohammed Areeb Ali Shivji's Hall of Trophies" width="480" />
 </a>
 
 </div>
