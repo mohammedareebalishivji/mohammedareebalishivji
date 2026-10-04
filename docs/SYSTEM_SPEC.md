@@ -9,3 +9,7 @@ E.V.E (Machine-as-a-Service Intelligence Core) is an ambient autonomous system a
 - **Collaborative Telemetry**: Continuous integration and distributed commit auditing v2.4
 - **Autonomous Protocol**: Multi-agent consensus telemetry and state verification pipeline
 - **Verification Matrix**: Real-time git commit signing and continuous delivery telemetry
+
+### Runtime Baseline & Telemetry Health
+- **Runtime Environment**: Node.js 20+ LTS / Python 3.12 / Apple Silicon Neural Engine
+- **Telemetry Health**: Automated integrity checks & streaming logging active
