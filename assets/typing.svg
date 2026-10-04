@@ -1,0 +1,164 @@
+<svg
+  width="840"
+  height="148"
+  viewBox="0 0 840 148"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  role="img"
+  aria-label="Mohammed Areeb Ali Shivji - Animated Cybernetic Terminal"
+>
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="40%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#060911" />
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.9" />
+      <stop offset="35%" stop-color="#4facfe" stop-opacity="0.7" />
+      <stop offset="70%" stop-color="#8b5cf6" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#6b21a8" stop-opacity="0.9" />
+    </linearGradient>
+
+    <!-- Header Divider Line -->
+    <linearGradient id="headerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes cursorBlink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .term-title {
+      font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #8b949e;
+      letter-spacing: 0.5px;
+    }
+    .prompt-lbl {
+      font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 13.5px;
+      font-weight: 700;
+      fill: #00f2fe;
+    }
+    .typed-text {
+      font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 14.5px;
+      font-weight: 600;
+      letter-spacing: 0.2px;
+    }
+    .footer-ticker {
+      font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 9.5px;
+      font-weight: 600;
+      fill: #4b5563;
+      letter-spacing: 0.8px;
+    }
+    .live-dot {
+      fill: #22c55e;
+      filter: drop-shadow(0 0 3px #22c55e);
+    }
+  </style>
+
+  <!-- Outer Card Frame -->
+  <rect x="2" y="2" width="836" height="144" rx="14" fill="url(#cardBg)" stroke="url(#borderGrad)" stroke-width="1.4" />
+
+  <!-- Top Titlebar -->
+  <rect x="2" y="2" width="836" height="34" rx="14" fill="#161b22" fill-opacity="0.55" />
+  <rect x="2" y="35" width="836" height="1" fill="url(#headerLine)" />
+
+  <!-- Window Dots -->
+  <circle cx="24" cy="19" r="5.5" fill="#ff5f56" />
+  <circle cx="42" cy="19" r="5.5" fill="#ffbd2e" />
+  <circle cx="60" cy="19" r="5.5" fill="#27c93f" />
+
+  <!-- Title Center -->
+  <text x="420" y="23" text-anchor="middle" class="term-title">mohammedareeb@eve-core: ~/agents-workspace (zsh)</text>
+
+  <!-- Live Pulse Status Badge -->
+  <circle cx="742" cy="19" r="4" class="live-dot" />
+  <text x="753" y="22.5" class="term-title" fill="#22c55e" font-weight="700">ONLINE</text>
+
+  <!-- Terminal Shell Command Prompt -->
+  <g transform="translate(24, 76)">
+    <text x="0" y="0" class="prompt-lbl">❯ eve-agent --role</text>
+    <text x="162" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#6b7280">:</text>
+  </g>
+
+  <!-- Rotating Typing Lines using SMIL -->
+  <path id="line0">
+    <animate id="a0" attributeName="d" begin="0s;a4.end" dur="3800ms" fill="remove"
+      values="m190,76 h0 ; m190,76 h620 ; m190,76 h620 ; m190,76 h0" keyTimes="0;0.5;0.88;1" />
+  </path>
+  <text class="typed-text" fill="#00f2fe" filter="url(#glow)">
+    <textPath xlink:href="#line0">⚡ Architecting Autonomous Multi-Agent AI Operating Systems</textPath>
+  </text>
+
+  <path id="line1">
+    <animate id="a1" attributeName="d" begin="a0.end" dur="3800ms" fill="remove"
+      values="m190,76 h0 ; m190,76 h620 ; m190,76 h620 ; m190,76 h0" keyTimes="0;0.5;0.88;1" />
+  </path>
+  <text class="typed-text" fill="#38bdf8">
+    <textPath xlink:href="#line1">🚀 Creator of E.V.E (Personal Autonomous Operating Entity)</textPath>
+  </text>
+
+  <path id="line2">
+    <animate id="a2" attributeName="d" begin="a1.end" dur="3800ms" fill="remove"
+      values="m190,76 h0 ; m190,76 h620 ; m190,76 h620 ; m190,76 h0" keyTimes="0;0.5;0.88;1" />
+  </path>
+  <text class="typed-text" fill="#a855f7">
+    <textPath xlink:href="#line2">🧠 Claude 3.5 Sonnet • Gemini 2.0 • Local Edge SLMs • Vector RAG</textPath>
+  </text>
+
+  <path id="line3">
+    <animate id="a3" attributeName="d" begin="a2.end" dur="3800ms" fill="remove"
+      values="m190,76 h0 ; m190,76 h620 ; m190,76 h620 ; m190,76 h0" keyTimes="0;0.5;0.88;1" />
+  </path>
+  <text class="typed-text" fill="#06b6d4">
+    <textPath xlink:href="#line3">🛠️ Full-Stack Systems Architect | Next.js 16 • TypeScript • Python</textPath>
+  </text>
+
+  <path id="line4">
+    <animate id="a4" attributeName="d" begin="a3.end" dur="3800ms" fill="remove"
+      values="m190,76 h0 ; m190,76 h620 ; m190,76 h620 ; m190,76 h0" keyTimes="0;0.5;0.88;1" />
+  </path>
+  <text class="typed-text" fill="#4facfe">
+    <textPath xlink:href="#line4">🌐 Autonomous Computer-Use, Set-of-Marks Vision &amp; Web Navigation</textPath>
+  </text>
+
+  <!-- Animated Traveling Blinking Cursor -->
+  <rect y="60" width="8" height="18" rx="1.5" fill="#00f2fe">
+    <animate id="cur0" attributeName="x" begin="0s;cur4.end" dur="3800ms" fill="remove"
+      values="192 ; 675 ; 675 ; 192" keyTimes="0;0.5;0.88;1" />
+    <animate id="cur1" attributeName="x" begin="cur0.end" dur="3800ms" fill="remove"
+      values="192 ; 640 ; 640 ; 192" keyTimes="0;0.5;0.88;1" />
+    <animate id="cur2" attributeName="x" begin="cur1.end" dur="3800ms" fill="remove"
+      values="192 ; 685 ; 685 ; 192" keyTimes="0;0.5;0.88;1" />
+    <animate id="cur3" attributeName="x" begin="cur2.end" dur="3800ms" fill="remove"
+      values="192 ; 695 ; 695 ; 192" keyTimes="0;0.5;0.88;1" />
+    <animate id="cur4" attributeName="x" begin="cur3.end" dur="3800ms" fill="remove"
+      values="192 ; 710 ; 710 ; 192" keyTimes="0;0.5;0.88;1" />
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.49;0.5;0.99;1" dur="0.75s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Bottom Telemetry Ticker -->
+  <rect x="2" y="116" width="836" height="1" fill="#1e293b" fill-opacity="0.7" />
+  <text x="24" y="133" class="footer-ticker">
+    <tspan fill="#00f2fe">● CORE:</tspan> E.V.E MULTI-AGENT SWARM   |   <tspan fill="#a855f7">● RAG:</tspan> VECTOR EMBEDDINGS   |   <tspan fill="#22c55e">● STATUS:</tspan> PROACTIVE SENTINEL   |   <tspan fill="#38bdf8">● TELEMETRY:</tspan> NOMINAL
+  </text>
+</svg>

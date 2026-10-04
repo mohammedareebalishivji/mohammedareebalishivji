@@ -7,11 +7,13 @@
 [![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-mohammed--areeb--ali--shivji.vercel.app-00f2fe?style=for-the-badge&logoColor=black)](https://mohammed-areeb-ali-shivji.vercel.app/)
 [![GitHub](https://img.shields.io/badge/⚡_GITHUB_PROFILE-mohammedareebalishivji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedareebalishivji)
 [![Email](https://img.shields.io/badge/✉️_DIRECT_CONTACT-mohammedareebalishivji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedareebalishivji@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=mohammedareebalishivji&color=00f2fe&style=for-the-badge&label=VISITORS)](https://github.com/mohammedareebalishivji)
+[![Visitors](https://komarev.com/ghpvc/?username=mohammedareebalishivji&color=6b21a8&style=for-the-badge&label=VISITORS)](https://github.com/mohammedareebalishivji)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Architecting+Autonomous+AI+Operating+Intelligence;🚀+Creator+of+E.V.E+(Multi-Agent+Autonomous+System);🧠+Claude+3.5+%E2%80%A2+Gemini+%E2%80%A2+Local+SLMs+%E2%80%A2+Vector+RAG;🛠️+Full-Stack+Architect+%7C+Next.js+15+%E2%80%A2+TypeScript+%E2%80%A2+Python;🌐+Bridging+Digital+Perception+%26+Autonomous+Computer-Use" alt="Typing SVG" />
+<a href="https://github.com/mohammedareebalishivji">
+  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/typing.svg" alt="Mohammed Areeb Ali Shivji — AI Systems Architect Terminal" width="100%" />
+</a>
 
 </div>
 
