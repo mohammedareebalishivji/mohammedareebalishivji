@@ -218,7 +218,7 @@ A comprehensive catalog of production client systems, machine learning architect
 
 <div align="center">
 
-Whether you're looking to discuss **advanced multi-agent systems**, collaborate on **cutting-edge open source**, or explore **high-impact opportunities**, feel free to reach out:
+Whether you're looking to discuss **advanced multi-agent systems**, collaborate on **cutting-edge open source**, or explore **high-impact opportunities**, feel free to reach out :
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--areeb--ali--shivji.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=black)](https://mohammed-areeb-ali-shivji.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammedareebalishivji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedareebalishivji)
