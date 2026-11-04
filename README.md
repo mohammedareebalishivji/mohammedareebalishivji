@@ -21,15 +21,17 @@
 
 ## 🛰️ EXECUTIVE OVERVIEW
 
-> *"The future belongs to sovereign, proactive multi-agent intelligence that operates silently in the background, executing intent at hypersonic speed."*
+> *"A dreamer learning to build. Turning ideas into shipped code, one repo at a time."*
 
-I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co-pilots, computer-use browser automation, and real-time cybernetic interfaces. Below is an architectural overview of my core engineering projects and their operational mechanics:
+I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad**, building full-stack products, AI assistants and machine learning projects. These are my main projects:
 
-- 🤖 **[E.V.E](https://github.com/mohammedareebalishivji)**: Autonomous personal operating system powered by local edge SLMs (Ollama `qwen2.5:7b`) and hybrid cloud routing (Claude 3.5 Sonnet / Gemini); operates via continuous streaming NDJSON tool loops, persistent vector RAG memory (`nomic-embed-text`), native WhatsApp Linked Device synchronization (Baileys), Twilio voice telecommunications, and macOS AppleScript automation.
-- 🏢 **[The Stellaar Platform (TSApp)](https://github.com/officethestellaar/TSApp)**: Enterprise club membership, event reservation, and transaction management system built on Next.js 15 (Turbopack) and Express/TypeScript; works via a dual-ledger Prisma PostgreSQL architecture with strict role-based access control (RBAC), QR digital credential validation, and automated financial transaction audit trails.
-- ⚡ **[O.D.C (On-Demand Crew)](https://github.com/mohammedareebalishivji/ODC)**: Multi-sided hospitality workforce marketplace connecting restaurants and hotels with verified freelance chefs and staff; runs an automated shift lifecycle through geolocation proximity dispatch, escrow fund locking, 4-digit proximity code on-site check-in verification, and instant automated payout settlement.
-- 🏛️ **[PRISM (GovTech Innovation Engine — SIH)](https://github.com/mohammedareebalishivji)**: Startup-friendly public procurement and technology adoption platform built for the Government of Maharashtra (MSInS); automates a transparent, legally compliant 4-stage pipeline (*Identify → Pilot → Procure → Scale*) evaluating startup solutions through smart qualification matrices and departmental milestone tracking.
-- 🏆 **[Dunk & Spike & Legends Walk Off](https://github.com/mohammedareebalishivji/Legends_walk_off)**: Tournament athletic portals and live court scoring engines built for collegiate championships; delivers live digital consoles compliant with official FIBA/NCAA basketball and FIVB/VNL volleyball rules, real-time score/foul/timeout telemetry websockets, dynamic tournament bracket trees, and player stat tracking.
+- 🤖 **E.V.E** *(private repo)*: My personal AI assistant, which runs on my own Mac. It uses a local Ollama model (`qwen2.5:7b`) and can switch to Claude or Gemini, with long-term memory, WhatsApp through Baileys, Twilio voice calls and macOS control through AppleScript. My public voice-assistant code is in [My_AI_MAAS](https://github.com/mohammedareebalishivji/My_AI_MAAS).
+- 🩺 **[PediaTrack Pro](https://github.com/mohammedareebalishivji/PediaTrack)**: A pediatric health platform that keeps growth, vaccines, milestones and prescriptions in one record. It compares growth against WHO and IAP standards, projects height and weight 12 months ahead with scikit-learn, and sends emergency alerts over Socket.IO.
+- 🏢 **[The Stellaar Platform](https://github.com/officethestellaar/TSApp)**: A club management system for [thestellaar.com](https://thestellaar.com), covering memberships, billing, a restaurant POS with kitchen display, inventory and staff payroll. It's built on Next.js 16, Express, Prisma and PostgreSQL, with granular role-based permissions and a separate transaction ledger.
+- ⚡ **[O.D.C (On-Demand Crew)](https://github.com/mohammedareebalishivji/ODC)**: A single-shift hiring marketplace connecting restaurants, bars and hotels with freelance chefs and waiters. Nearby crew get pinged and can accept or counter-offer, pay is held in escrow, crew check in with a 4-digit proximity code, and approval releases the payout.
+- 🏐 **[Dunk & Spike](https://github.com/mohammedareebalishivji/Dunk_and_Spike)**: A scoring portal for collegiate basketball and volleyball that follows FIBA/NCAA and FIVB/VNL rules, including shot clocks, team-foul bonuses, uncapped deuces and printable scoresheets.
+- 🏆 **[Legends Walk Off](https://github.com/mohammedareebalishivji/Legends_walk_off)**: The tournament portal for an inter-collegiate cricket and football championship at NMIMS Hyderabad, with ball-by-ball scoring, points tables and separate access for scorers, referees and spectators.
+- 🏛️ **PRISM** *(private repo)*: A Smart India Hackathon project (SIH26136), built as a startup procurement platform for the Maharashtra State Innovation Society (MSInS). It takes startup solutions through a four-stage pipeline: *Identify → Pilot → Procure → Scale*.
 
 ---
 
@@ -40,6 +42,28 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 ### 🎖️ Official Earned Badges
 <table>
   <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/mohammedareebalishivji?achievement=pull-shark&tab=achievements">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="95" height="95" alt="Pull Shark, bronze tier" />
+      </a>
+      <br />
+      <b>🦈 Pull Shark</b>
+      <br />
+      <sub>Merged Pull Requests</sub>
+      <br />
+      <code>Bronze x2 ✓</code>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/mohammedareebalishivji?achievement=yolo&tab=achievements">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" height="95" alt="YOLO" />
+      </a>
+      <br />
+      <b>🎲 YOLO</b>
+      <br />
+      <sub>Merged Without Review</sub>
+      <br />
+      <code>Unlocked ✓</code>
+    </td>
     <td align="center" width="160">
       <a href="https://github.com/mohammedareebalishivji?achievement=quickdraw&tab=achievements">
         <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" height="95" alt="Quickdraw" />
@@ -68,16 +92,7 @@ I am a **Full-Stack AI Systems Architect** engineering autonomous multi-agent co
 ## 📊 LIVE REPOSITORY TELEMETRY & CODING VELOCITY
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedareebalishivji&theme=radical&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0D1117" alt="GitHub Streak" width="410" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedareebalishivji&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="410" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedareebalishivji&theme=radical&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0D1117" alt="GitHub Streak" width="410" />
 </div>
 
 ---
