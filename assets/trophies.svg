@@ -1,13 +1,13 @@
 <svg
   width="480"
-  height="150"
-  viewBox="0 0 480 150"
+  height="430"
+  viewBox="0 0 480 430"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
   aria-labelledby="trophyShowroomTitle"
 >
-  <title id="trophyShowroomTitle">Mohammed Areeb Ali Shivji's Hall of Trophies &amp; Achievements - Quickdraw</title>
+  <title id="trophyShowroomTitle">Mohammed Areeb Ali Shivji's Hall of Trophies &amp; Achievements - Pull Shark x2, YOLO and Quickdraw</title>
   <defs>
     <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#161b22" />
@@ -42,34 +42,101 @@
     }
   </style>
 
+  <!-- Pull Shark -->
   <g class="trophy-card">
-    <rect x="10" y="10" width="460" height="130" rx="12" fill="url(#cardGrad)" stroke="#ffe259" stroke-width="1.2" stroke-opacity="0.4"/>
-    
-    <!-- Quickdraw Emblem -->
+    <rect x="10" y="10" width="460" height="130" rx="12" fill="url(#cardGrad)" stroke="#f0a56b" stroke-width="1.2" stroke-opacity="0.4"/>
+
+    <!-- Pull request emblem -->
     <g transform="translate(68, 75)">
-      <circle r="38" fill="#ffe259" fill-opacity="0.1" stroke="#ffe259" stroke-width="1.5" filter="url(#neonGlow)"/>
-      <circle r="30" stroke="#ffe259" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="4 3"/>
-      <!-- Lightning bolt & target path -->
-      <path d="M-3,-14 L7,-3 L1,0 L8,14 L-6,3 L-1,0 Z" fill="url(#goldGrad)" filter="url(#neonGlow)"/>
+      <circle r="38" fill="#f0a56b" fill-opacity="0.1" stroke="#f0a56b" stroke-width="1.5" filter="url(#neonGlow)"/>
+      <circle r="30" stroke="#f0a56b" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="4 3"/>
+      <g stroke="#f0a56b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="-9" cy="-12" r="3.6"/>
+        <circle cx="-9" cy="12" r="3.6"/>
+        <circle cx="9" cy="12" r="3.6"/>
+        <path d="M-9,-8 L-9,8"/>
+        <path d="M9,8 L9,-5 Q9,-11 3,-11 L0,-11"/>
+        <path d="M3,-15 L-1,-11 L3,-7"/>
+      </g>
     </g>
 
-    <!-- Details -->
     <g transform="translate(130, 24)">
-      <!-- Category Badge -->
-      <rect x="0" y="4" width="138" height="18" rx="9" fill="#ffe259" fill-opacity="0.15" stroke="#ffe259" stroke-width="0.8"/>
-      <text x="69" y="16" class="trophy-badge" fill="#ffe259">OFFICIAL ACHIEVEMENT</text>
+      <rect x="0" y="4" width="138" height="18" rx="9" fill="#f0a56b" fill-opacity="0.15" stroke="#f0a56b" stroke-width="0.8"/>
+      <text x="69" y="16" class="trophy-badge" fill="#f0a56b">OFFICIAL ACHIEVEMENT</text>
 
-      <!-- Title -->
-      <text x="0" y="44" class="trophy-title-lg" fill="#f0f6fc">QUICKDRAW</text>
+      <text x="0" y="44" class="trophy-title-lg" fill="#f0f6fc">PULL SHARK</text>
+      <rect x="146" y="29" width="66" height="18" rx="9" fill="#f0a56b" fill-opacity="0.15" stroke="#f0a56b" stroke-width="0.8"/>
+      <text x="179" y="41" class="trophy-badge" fill="#f0a56b">BRONZE x2</text>
 
-      <!-- Description -->
-      <text x="0" y="65" class="trophy-sub-text" fill="#8b949e">Closed an issue or pull request within 5 minutes of opening</text>
+      <text x="0" y="65" class="trophy-sub-text" fill="#8b949e">Opened pull requests that have been merged</text>
 
-      <!-- Status -->
       <g transform="translate(0, 78)">
         <rect x="0" y="0" width="88" height="18" rx="9" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="0.8"/>
         <text x="44" y="12" class="trophy-badge" fill="#10b981">UNLOCKED ✓</text>
-        <text x="98" y="13" class="trophy-sub-text" fill="#6e7681">Verified on GitHub Profile</text>
+        <text x="98" y="13" class="trophy-sub-text" fill="#6e7681">Oct 2026 · Verified on GitHub Profile</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- YOLO -->
+  <g class="trophy-card" transform="translate(0, 140)">
+    <rect x="10" y="10" width="460" height="130" rx="12" fill="url(#cardGrad)" stroke="#c084fc" stroke-width="1.2" stroke-opacity="0.4"/>
+
+    <!-- Die emblem -->
+    <g transform="translate(68, 75)">
+      <circle r="38" fill="#c084fc" fill-opacity="0.1" stroke="#c084fc" stroke-width="1.5" filter="url(#neonGlow)"/>
+      <circle r="30" stroke="#c084fc" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="4 3"/>
+      <g transform="rotate(-12)">
+        <rect x="-14" y="-14" width="28" height="28" rx="6" stroke="#c084fc" stroke-width="2.4"/>
+        <g fill="#c084fc">
+          <circle cx="-6.5" cy="-6.5" r="2.4"/>
+          <circle cx="6.5" cy="-6.5" r="2.4"/>
+          <circle cx="0" cy="0" r="2.4"/>
+          <circle cx="-6.5" cy="6.5" r="2.4"/>
+          <circle cx="6.5" cy="6.5" r="2.4"/>
+        </g>
+      </g>
+    </g>
+
+    <g transform="translate(130, 24)">
+      <rect x="0" y="4" width="138" height="18" rx="9" fill="#c084fc" fill-opacity="0.15" stroke="#c084fc" stroke-width="0.8"/>
+      <text x="69" y="16" class="trophy-badge" fill="#c084fc">OFFICIAL ACHIEVEMENT</text>
+
+      <text x="0" y="44" class="trophy-title-lg" fill="#f0f6fc">YOLO</text>
+
+      <text x="0" y="65" class="trophy-sub-text" fill="#8b949e">Merged a pull request without a review</text>
+
+      <g transform="translate(0, 78)">
+        <rect x="0" y="0" width="88" height="18" rx="9" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="0.8"/>
+        <text x="44" y="12" class="trophy-badge" fill="#10b981">UNLOCKED ✓</text>
+        <text x="98" y="13" class="trophy-sub-text" fill="#6e7681">Oct 2026 · Verified on GitHub Profile</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Quickdraw -->
+  <g class="trophy-card" transform="translate(0, 280)">
+    <rect x="10" y="10" width="460" height="130" rx="12" fill="url(#cardGrad)" stroke="#ffe259" stroke-width="1.2" stroke-opacity="0.4"/>
+
+    <!-- Lightning bolt emblem -->
+    <g transform="translate(68, 75)">
+      <circle r="38" fill="#ffe259" fill-opacity="0.1" stroke="#ffe259" stroke-width="1.5" filter="url(#neonGlow)"/>
+      <circle r="30" stroke="#ffe259" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="4 3"/>
+      <path d="M-3,-14 L7,-3 L1,0 L8,14 L-6,3 L-1,0 Z" fill="url(#goldGrad)" filter="url(#neonGlow)"/>
+    </g>
+
+    <g transform="translate(130, 24)">
+      <rect x="0" y="4" width="138" height="18" rx="9" fill="#ffe259" fill-opacity="0.15" stroke="#ffe259" stroke-width="0.8"/>
+      <text x="69" y="16" class="trophy-badge" fill="#ffe259">OFFICIAL ACHIEVEMENT</text>
+
+      <text x="0" y="44" class="trophy-title-lg" fill="#f0f6fc">QUICKDRAW</text>
+
+      <text x="0" y="65" class="trophy-sub-text" fill="#8b949e">Closed an issue or pull request within 5 minutes of opening</text>
+
+      <g transform="translate(0, 78)">
+        <rect x="0" y="0" width="88" height="18" rx="9" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="0.8"/>
+        <text x="44" y="12" class="trophy-badge" fill="#10b981">UNLOCKED ✓</text>
+        <text x="98" y="13" class="trophy-sub-text" fill="#6e7681">Oct 2026 · Verified on GitHub Profile</text>
       </g>
     </g>
   </g>

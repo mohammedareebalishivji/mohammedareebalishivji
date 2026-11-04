@@ -43,6 +43,28 @@ I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad*
 <table>
   <tr>
     <td align="center" width="160">
+      <a href="https://github.com/mohammedareebalishivji?achievement=pull-shark&tab=achievements">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="95" height="95" alt="Pull Shark, bronze tier" />
+      </a>
+      <br />
+      <b>🦈 Pull Shark</b>
+      <br />
+      <sub>Merged Pull Requests</sub>
+      <br />
+      <code>Bronze x2 ✓</code>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/mohammedareebalishivji?achievement=yolo&tab=achievements">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" height="95" alt="YOLO" />
+      </a>
+      <br />
+      <b>🎲 YOLO</b>
+      <br />
+      <sub>Merged Without Review</sub>
+      <br />
+      <code>Unlocked ✓</code>
+    </td>
+    <td align="center" width="160">
       <a href="https://github.com/mohammedareebalishivji?achievement=quickdraw&tab=achievements">
         <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" height="95" alt="Quickdraw" />
       </a>
@@ -70,16 +92,7 @@ I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad*
 ## 📊 LIVE REPOSITORY TELEMETRY & CODING VELOCITY
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedareebalishivji&theme=radical&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0D1117" alt="GitHub Streak" width="410" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedareebalishivji&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="410" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedareebalishivji&theme=radical&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0D1117" alt="GitHub Streak" width="410" />
 </div>
 
 ---
