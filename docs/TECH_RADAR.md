@@ -1,6 +1,6 @@
 # Autonomous Engineering Tech Radar
 
-Strategic breakdown of technology layers, libraries, and runtime frameworks powering the E.V.E autonomous ecosystem.
+Strategic breakdown of technology layers, libraries, and runtime frameworks powering the EVE autonomous ecosystem.
 
 ---
 

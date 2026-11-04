@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe,6b21a8&height=220&section=header&text=MOHAMMED%20AREEB%20ALI%20SHIVJI&fontSize=40&fontAlignY=38&desc=Full-Stack%20AI%20Systems%20Architect%20%E2%80%A2%20Creator%20of%20E.V.E%20(MaaS)&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Mohammed Areeb Ali Shivji Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe,6b21a8&height=220&section=header&text=MOHAMMED%20AREEB%20ALI%20SHIVJI&fontSize=40&fontAlignY=38&desc=Full-Stack%20AI%20Systems%20Architect%20%E2%80%A2%20Creator%20of%20EVE%20(MaaS)&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Mohammed Areeb Ali Shivji Banner" width="100%" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad**, building full-stack products, AI assistants and machine learning projects. These are my main projects:
 
-- 🤖 **E.V.E** *(private repo)*: My personal AI assistant, which runs on my own Mac. It uses a local Ollama model (`qwen2.5:7b`) and can switch to Claude or Gemini, with long-term memory, WhatsApp through Baileys, Twilio voice calls and macOS control through AppleScript. My public voice-assistant code is in [My_AI_MAAS](https://github.com/mohammedareebalishivji/My_AI_MAAS).
+- 🤖 **EVE** *(private repo)*: My personal AI assistant, which runs on my own Mac. It uses a local Ollama model (`qwen2.5:7b`) and can switch to Claude or Gemini, with long-term memory, WhatsApp through Baileys, Twilio voice calls and macOS control through AppleScript.
 - 🩺 **[PediaTrack Pro](https://github.com/mohammedareebalishivji/PediaTrack)**: A pediatric health platform that keeps growth, vaccines, milestones and prescriptions in one record. It compares growth against WHO and IAP standards, projects height and weight 12 months ahead with scikit-learn, and sends emergency alerts over Socket.IO.
 - 🏢 **[The Stellaar Platform](https://github.com/officethestellaar/TSApp)**: A club management system for [thestellaar.com](https://thestellaar.com), covering memberships, billing, a restaurant POS with kitchen display, inventory and staff payroll. It's built on Next.js 16, Express, Prisma and PostgreSQL, with granular role-based permissions and a separate transaction ledger.
 - ⚡ **[O.D.C (On-Demand Crew)](https://github.com/mohammedareebalishivji/ODC)**: A single-shift hiring marketplace connecting restaurants, bars and hotels with freelance chefs and waiters. Nearby crew get pinged and can accept or counter-offer, pay is held in escrow, crew check in with a 4-digit proximity code, and approval releases the payout.
@@ -117,15 +117,15 @@ I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad*
 
 ---
 
-## ⚡ FLAGSHIP ARCHITECTURE: E.V.E (MaaS CORE)
+## ⚡ FLAGSHIP ARCHITECTURE: EVE (MaaS CORE)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/E.V.E-Autonomous_Operating_Core-00f2fe?style=for-the-badge&logo=cpu&logoColor=black" alt="EVE Badge" />
+  <img src="https://img.shields.io/badge/EVE-Autonomous_Operating_Core-00f2fe?style=for-the-badge&logo=cpu&logoColor=black" alt="EVE Badge" />
 </div>
 
 ```
                      ┌──────────────────────────────────────────────┐
-                     │   E.V.E (MaaS Core Autonomous Intelligence)  │
+                     │   EVE (MaaS Core Autonomous Intelligence)    │
                      └──────────────────────┬───────────────────────┘
                                             │
         ┌───────────────────┬───────────────┴───────────────┬───────────────────┐
@@ -137,7 +137,7 @@ I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad*
 └───────────────┘   └───────────────┘               └───────────────┘   └───────────────┘
 ```
 
-> **E.V.E** represents a paradigm shift in human-machine collaboration:
+> **EVE** represents a paradigm shift in human-machine collaboration:
 - **Visual Cursor Simulation**: Moves mouse coordinates, simulates click ripples, and types into live websites autonomously.
 - **Multi-Agent Hybrid Brain**: Seamlessly routes high-complexity architecture to Claude 3.5 Sonnet, fast reasoning to Gemini, and private context to local Ollama.
 - **Zero-Token WhatsApp Intelligence**: Direct Baileys linked-device socket reading chats, summarizing conversations, and drafting responses.
@@ -153,7 +153,7 @@ A comprehensive catalog of production client systems, machine learning architect
 
 - 🏢 **[The Stellaar Platform & TSwebapp](https://github.com/officethestellaar/TSApp)** *(Client Production System — [thestellaar.com](https://thestellaar.com))*
   - **Working**: Full-stack TypeScript monorepo with 25+ API modules running daily club operations: digital member passports, restaurant POS with Kitchen Display System (KDS), real-time inventory tracking, GST-compliant billing, and HR/payroll. Features a 16-role multi-tier RBAC system enforced at middleware, server component, and API levels, alongside real-time Socket.IO chat and automated WhatsApp Cloud API notifications.
-  - **Tech**: `Next.js 16` • `TypeScript` • `Express 5` • `Prisma` • `PostgreSQL` • `Tailwind CSS` • `Framer Motion` • `Socket.IO` • `WhatsApp Cloud API`
+  - **Tech**: `Next.js 16` • `TypeScript` • `Express 4` • `Prisma` • `PostgreSQL` • `Tailwind CSS` • `Framer Motion` • `Socket.IO` • `WhatsApp Cloud API`
 
 - ⚡ **[O.D.C — On-Demand Crew](https://github.com/mohammedareebalishivji/ODC)** *(Real-Time Hospitality Gig Marketplace)*
   - **Working**: Multi-sided marketplace for single-shift hiring. Restaurants post shift requirements with budget bands; nearby freelance staff are pinged in real-time to accept or counter-offer. Features Razorpay escrow built on an append-only ledger preventing double-payments/overdrafts, automated dispute hold freezes, on-site 4-digit proximity code check-ins, passwordless OTP + JWT auth, TOTP 2FA for super-admins, and KYC document verification (Aadhaar/PAN/FSSAI). Tested across 146 automated test suites.
@@ -163,9 +163,13 @@ A comprehensive catalog of production client systems, machine learning architect
   - **Working**: Consolidates child physical development, vaccination schedules, milestone tracking, and prescriptions into a unified longitudinal electronic health record. Evaluates biometric growth curves against WHO 2006 and IAP 2015 pediatric standards, forecasting 12-month growth trajectories using scikit-learn linear regression. Includes Socket.IO emergency alert broadcasts, one-click clinical summary PDF exports, and an ABHA-ready schema.
   - **Tech**: `Python` • `Flask` • `scikit-learn` • `Socket.IO` • `React 19` • `Vite` • `React Three Fiber` • `Recharts` • `React Native (Expo)` • `PostgreSQL`
 
-- 🏐 **[Dunk & Spike](https://github.com/mohammedareebalishivji/Dunk_and_Spike) & [Legends Walk Off](https://github.com/mohammedareebalishivji/Legends_walk_off)** *(Collegiate Sports Scoring & Tournament Engine)*
-  - **Working**: Live sports scoring portal compliant with official FIVB/VNL volleyball and FIBA/NCAA basketball regulations. Volleyball: best-of-3/5 sets, no-ceiling deuce logic, automatic court-switch alert at 8 points in deciding sets, card sanctions, and 30-sec timeout countdowns. Basketball: automatic overtime quarters, team-foul bonus indicators, 24/14-sec shot clock resets, box scores, and instant PDF match reports. 23 unit/integration tests with Vitest, containerized with Docker.
-  - **Tech**: `TypeScript` • `Node.js` • `Vitest` • `Docker` • `WebSockets` • `Tailwind CSS`
+- 🏐 **[Dunk & Spike](https://github.com/mohammedareebalishivji/Dunk_and_Spike)** *(Collegiate Basketball & Volleyball Scoring)*
+  - **Working**: Live sports scoring portal following official FIVB/VNL volleyball and FIBA/NCAA basketball rules. Volleyball: best-of-3/5 sets, no-ceiling deuce logic, automatic court-switch alert at 8 points in deciding sets, card sanctions, and 30-sec timeout countdowns. Basketball: automatic overtime quarters, team-foul bonus indicators, 24/14-sec shot clock resets, box scores, and printable PDF scoresheets. 23 unit/integration tests with Vitest, containerized with Docker.
+  - **Tech**: `TypeScript` • `React 19` • `Vite` • `Node.js` • `Vitest` • `Docker` • `WebSockets` • `Tailwind CSS`
+
+- 🏆 **[Legends Walk Off](https://github.com/mohammedareebalishivji/Legends_walk_off)** *(Inter-Collegiate Cricket & Football Portal)*
+  - **Working**: Tournament portal for the STME Impulse Committee's championship at NMIMS Hyderabad. Cricket: ball-by-ball scoring with wickets, extras, strike swaps, bowler rotations, and DLS par calculations. Football: goals, cards, fouls, half clocks, and substitutions. Role-based access separates the committee, each sport's scorers, referees, and spectators, with pool standings, a broadcast alert ticker, and live score updates synced across browser tabs.
+  - **Tech**: `HTML` • `JavaScript` • `Node.js` • `Stitch MCP`
 
 - 🏥 **Hayaat Health Centre** *(Medical Practice & Patient Portal — Tanzania)*
   - **Working**: Healthcare web portal engineered for a medical clinic in Tanzania, featuring online patient intake registration, scheduled specialist appointment booking, medical advice publications, and a protected administrative EHR dashboard backed by JWT-secured sessions.
@@ -179,9 +183,9 @@ A comprehensive catalog of production client systems, machine learning architect
 
 ### 🧠 AI, Machine Learning & Data Science
 
-- 🤖 **[E.V.E — Local Voice AI Assistant (MaaS Core)](https://github.com/mohammedareebalishivji/AI_MAAS)** *(Sovereign Autonomous Agent)*
-  - **Working**: Voice-controlled multi-agent co-pilot running locally on quantized models (Ollama `qwen2.5:7b` / Llama 3) with intelligent cloud routing (Claude 3.5 Sonnet / Gemini), Whisper speech-to-text, and Coqui XTTS v2 text-to-speech. Features semantic long-term memory via ChromaDB (HNSW, cosine similarity) with sliding-window chunking for vector RAG, local SQLite logs, intent classification, OS-level automation (pyautogui, psutil, AppleScript), and a FastAPI + WebSocket telemetry console.
-  - **Tech**: `Python` • `FastAPI` • `WebSockets` • `Ollama` • `ChromaDB` • `Whisper` • `Coqui TTS` • `SQLite`
+- 🤖 **EVE — Personal AI Assistant (MaaS Core)** *(private repo)*
+  - **Working**: Personal assistant that runs on my own Mac, using a local Ollama model (`qwen2.5:7b`) with the option to switch to Claude or Gemini. It has long-term memory, WhatsApp through Baileys, Twilio voice calls, macOS control through AppleScript, and an Android companion.
+  - **Tech**: `Next.js 16` • `TypeScript` • `Tailwind CSS` • `Ollama` • `SQLite` • `Baileys` • `Twilio`
 
 - 🥗 **GoCARB** *(Computer-Vision Diabetes & Nutritional Assistant)*
   - **Working**: Automated carbohydrate estimation directly from meal photographs utilizing K-means color clustering, Watershed transform, and Sobel edge-detection segmentation, combined with stereo-vision 3D volume reconstruction from two perspective images. Recommends personalized insulin bolus dosages from individual insulin-to-carb ratios, with 7-day time-in-range glucose dashboards across 15 REST endpoints.
