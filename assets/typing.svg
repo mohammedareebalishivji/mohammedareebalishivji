@@ -114,7 +114,7 @@
       values="m190,76 h0 ; m190,76 h620 ; m190,76 h620 ; m190,76 h0" keyTimes="0;0.5;0.88;1" />
   </path>
   <text class="typed-text" fill="#38bdf8">
-    <textPath xlink:href="#line1">🚀 Creator of E.V.E (Personal Autonomous Operating Entity)</textPath>
+    <textPath xlink:href="#line1">🚀 Creator of EVE (Personal Autonomous Operating Entity)</textPath>
   </text>
 
   <path id="line2">
@@ -159,6 +159,6 @@
   <!-- Bottom Telemetry Ticker -->
   <rect x="2" y="116" width="836" height="1" fill="#1e293b" fill-opacity="0.7" />
   <text x="24" y="133" class="footer-ticker">
-    <tspan fill="#00f2fe">● CORE:</tspan> E.V.E MULTI-AGENT SWARM   |   <tspan fill="#a855f7">● RAG:</tspan> VECTOR EMBEDDINGS   |   <tspan fill="#22c55e">● STATUS:</tspan> PROACTIVE SENTINEL   |   <tspan fill="#38bdf8">● TELEMETRY:</tspan> NOMINAL
+    <tspan fill="#00f2fe">● CORE:</tspan> EVE MULTI-AGENT SWARM   |   <tspan fill="#a855f7">● RAG:</tspan> VECTOR EMBEDDINGS   |   <tspan fill="#22c55e">● STATUS:</tspan> PROACTIVE SENTINEL   |   <tspan fill="#38bdf8">● TELEMETRY:</tspan> NOMINAL
   </text>
 </svg>

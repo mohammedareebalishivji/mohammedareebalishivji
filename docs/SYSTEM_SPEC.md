@@ -1,7 +1,7 @@
-# E.V.E System Architecture Specification & Telemetry Protocol
+# EVE System Architecture Specification & Telemetry Protocol
 
 ## Autonomous Ecosystem Framework
-E.V.E (Machine-as-a-Service Intelligence Core) is an ambient autonomous system architecture designed for multi-agent coordination, local model acceleration, and intelligent developer automation.
+EVE (Machine-as-a-Service Intelligence Core) is an ambient autonomous system architecture designed for multi-agent coordination, local model acceleration, and intelligent developer automation.
 
 ### Telemetry & Integration Matrix
 - **Core Orchestrator**: Event-driven streaming state engine with sub-millisecond execution dispatch
