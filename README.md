@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe,6b21a8&height=220&section=header&text=MOHAMMED%20AREEB%20ALI%20SHIVJI&fontSize=40&fontAlignY=38&desc=Full-Stack%20AI%20Systems%20Architect%20%E2%80%A2%20Creator%20of%20EVE%20(MaaS)&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Mohammed Areeb Ali Shivji Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:6b21a8&height=220&section=header&text=MOHAMMED%20AREEB%20ALI%20SHIVJI&fontSize=52&descSize=24&fontAlignY=38&desc=Full-Stack%20AI%20Systems%20Architect%20%E2%80%A2%20Creator%20of%20EVE%20(MaaS)&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Mohammed Areeb Ali Shivji Banner" width="100%" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-mohammed--areeb--ali--shivji.vercel.app-00f2fe?style=for-the-badge&logoColor=black)](https://mohammed-areeb-ali-shivji.vercel.app/)
-[![GitHub](https://img.shields.io/badge/⚡_GITHUB_PROFILE-mohammedareebalishivji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedareebalishivji)
-[![Email](https://img.shields.io/badge/✉️_DIRECT_CONTACT-mohammedareebalishivji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedareebalishivji@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f2fe?style=for-the-badge&logo=vercel&logoColor=black)](https://mohammed-areeb-ali-shivji.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedareebalishivji)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedareebalishivji@gmail.com)
 [![Visitors](https://komarev.com/ghpvc/?username=mohammedareebalishivji&color=6b21a8&style=for-the-badge&label=VISITORS)](https://github.com/mohammedareebalishivji)
 
 <br/>
 
-<a href="https://github.com/mohammedareebalishivji">
-  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/typing.svg" alt="Mohammed Areeb Ali Shivji — AI Systems Architect Terminal" width="100%" />
-</a>
+<img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/typing.svg" alt="Mohammed Areeb Ali Shivji — AI Systems Architect Terminal" width="560" />
 
 </div>
 
@@ -40,49 +38,18 @@ I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad*
 <div align="center">
 
 ### 🎖️ Official Earned Badges
-<table>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/mohammedareebalishivji?achievement=pull-shark&tab=achievements">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="95" height="95" alt="Pull Shark, bronze tier" />
-      </a>
-      <br />
-      <b>🦈 Pull Shark</b>
-      <br />
-      <sub>Merged Pull Requests</sub>
-      <br />
-      <code>Bronze x2 ✓</code>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/mohammedareebalishivji?achievement=yolo&tab=achievements">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" height="95" alt="YOLO" />
-      </a>
-      <br />
-      <b>🎲 YOLO</b>
-      <br />
-      <sub>Merged Without Review</sub>
-      <br />
-      <code>Unlocked ✓</code>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/mohammedareebalishivji?achievement=quickdraw&tab=achievements">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" height="95" alt="Quickdraw" />
-      </a>
-      <br />
-      <b>🏹 Quickdraw</b>
-      <br />
-      <sub>Sub-5m Resolution</sub>
-      <br />
-      <code>Unlocked ✓</code>
-    </td>
-  </tr>
-</table>
+
+<a href="https://github.com/mohammedareebalishivji?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="70" height="70" alt="Pull Shark, bronze tier" /></a>
+<a href="https://github.com/mohammedareebalishivji?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" height="70" alt="YOLO" /></a>
+<a href="https://github.com/mohammedareebalishivji?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70" height="70" alt="Quickdraw" /></a>
+
+🦈&nbsp;**Pull&nbsp;Shark**&nbsp;`x2` • 🎲&nbsp;**YOLO** • 🏹&nbsp;**Quickdraw**
 
 <br/>
 
 ### 🏅 Hall of Trophies & Milestones
 <a href="https://github.com/mohammedareebalishivji?tab=achievements">
-  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/trophies.svg" alt="Mohammed Areeb Ali Shivji's Hall of Trophies" width="480" />
+  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/trophies.svg" alt="Mohammed Areeb Ali Shivji's Hall of Trophies" width="420" />
 </a>
 
 </div>
@@ -92,7 +59,7 @@ I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad*
 ## 📊 LIVE REPOSITORY TELEMETRY & CODING VELOCITY
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedareebalishivji&theme=radical&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0D1117" alt="GitHub Streak" width="410" />
+  <img src="https://raw.githubusercontent.com/mohammedareebalishivji/mohammedareebalishivji/main/assets/streak.svg" alt="GitHub Streak" width="420" />
 </div>
 
 ---
@@ -101,17 +68,17 @@ I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad*
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,nodejs,postgres,tailwind,docker,git,github,vscode,apple,linux&theme=dark" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,nodejs,postgres,tailwind,docker,git,github,vscode,apple,linux&theme=dark&perline=7" alt="Skill Icons" />
 
 <br/><br/>
 
-| Domain | Technologies & Frameworks |
+| Domain | Tech Stack |
 | :--- | :--- |
-| **🧠 AI & Agentic Orchestration** | Anthropic Claude 3.5, OpenAI GPT-4o, Google Gemini, Ollama Local SLMs, LangChain, Vector RAG Embeddings |
-| **💻 Full-Stack Architecture** | Next.js 15 (Turbopack, Server Actions), React 19, TypeScript, Tailwind CSS, Shadcn UI |
+| **🧠 AI & Agents** | Anthropic Claude 3.5, OpenAI GPT-4o, Google Gemini, Ollama Local SLMs, LangChain, Vector RAG Embeddings |
+| **💻 Full-Stack** | Next.js 15 (Turbopack, Server Actions), React 19, TypeScript, Tailwind CSS, Shadcn UI |
 | **⚙️ Backend & Systems** | Node.js, Python 3.12, Fastify/Express, PostgreSQL, Redis, macOS AppleScript Bridges, WebSockets |
-| **🌐 Autonomous Browser & Vision** | Playwright, Puppeteer, Set-of-Marks (SoM) Coordinates, MediaPipe Computer Vision, WebRTC |
-| **📱 Native Ecosystems** | WhatsApp Baileys Linked Device, Android Companion, Twilio Voice Protocols |
+| **🌐 Browser & Vision** | Playwright, Puppeteer, Set-of-Marks (SoM) Coordinates, MediaPipe Computer Vision, WebRTC |
+| **📱 Native Apps** | WhatsApp Baileys Linked Device, Android Companion, Twilio Voice Protocols |
 
 </div>
 
@@ -124,17 +91,14 @@ I'm a **B.Tech Computer Science & Data Science student at SVKM NMIMS, Hyderabad*
 </div>
 
 ```
-                     ┌──────────────────────────────────────────────┐
-                     │   EVE (MaaS Core Autonomous Intelligence)    │
-                     └──────────────────────┬───────────────────────┘
-                                            │
-        ┌───────────────────┬───────────────┴───────────────┬───────────────────┐
-        ▼                   ▼                               ▼                   ▼
-┌───────────────┐   ┌───────────────┐               ┌───────────────┐   ┌───────────────┐
-│ Autonomous    │   │ Multi-Agent   │               │ Native Device │   │ Ambient IoT   │
-│ Browser &     │   │ Hybrid Brain  │               │ Synchronizer  │   │ Telemetry     │
-│ Cursor Engine │   │ (Claude/Local)│               │ (WhatsApp/Mac)│   │ (Spotify/HUD) │
-└───────────────┘   └───────────────┘               └───────────────┘   └───────────────┘
+EVE (MaaS Core)
+├─ Browser & Cursor
+├─ Multi-Agent Brain
+│  (Claude/Local)
+├─ Native Device Sync
+│  (WhatsApp/Mac)
+└─ Ambient Telemetry
+   (Spotify/HUD)
 ```
 
 > **EVE** represents a paradigm shift in human-machine collaboration:
@@ -239,12 +203,12 @@ A comprehensive catalog of production client systems, machine learning architect
 
 Whether you're looking to discuss **advanced multi-agent systems**, collaborate on **cutting-edge open source**, or explore **high-impact opportunities**, feel free to reach out :
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--areeb--ali--shivji.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=black)](https://mohammed-areeb-ali-shivji.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-mohammedareebalishivji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedareebalishivji)
-[![Email](https://img.shields.io/badge/Email-mohammedareebalishivji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedareebalishivji@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f2fe?style=for-the-badge&logo=vercel&logoColor=black)](https://mohammed-areeb-ali-shivji.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedareebalishivji)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedareebalishivji@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6b21a8,4facfe,00f2fe&height=100&section=footer" alt="Footer Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b21a8,50:2563eb,100:0891b2&height=100&section=footer" alt="Footer Wave" width="100%" />
 
 </div>

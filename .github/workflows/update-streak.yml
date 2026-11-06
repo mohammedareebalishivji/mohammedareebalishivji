@@ -1,0 +1,30 @@
+name: Update streak card
+
+on:
+  schedule:
+    - cron: "30 6 * * *" # 12:00 IST
+    - cron: "40 18 * * *" # 00:10 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate card
+        run: python3 scripts/generate_streak.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if the card changed
+        run: |
+          git add assets/streak.svg
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(streak): update streak card"
+          git push
